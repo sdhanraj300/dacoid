@@ -8,7 +8,7 @@ import {
   FaUser,
 } from "react-icons/fa";
 import Image from "next/image";
-import calender from "../../images/Calendar.png";
+import calender from "../../images/calender.png";
 import { IoMdTrendingUp } from "react-icons/io";
 type Props = {};
 
